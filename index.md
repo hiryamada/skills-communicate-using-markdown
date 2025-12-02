@@ -9,6 +9,12 @@ var myVar = "Hello, world!";
 ```
 
 ### header3
+
+- [x] List syntax is required
+- [x] This item is complete
+- [ ] This item is not complete
+
 #### header4
+
 
 
